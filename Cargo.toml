@@ -1,0 +1,16 @@
+[package]
+name = "rust-design-patterns"
+version = "0.1.0"
+edition = "2021"
+
+
+[lib]  
+name = "rust_design_patterns"  # This must match the crate name
+path = "src/lib.rs"  # Defines the library entry
+
+
+[[bin]]
+name = "command_pattern"
+path = "src/command_pattern/command_pattern.rs"
+
+[dependencies]
