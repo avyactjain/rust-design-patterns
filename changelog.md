@@ -14,3 +14,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 - ✅ Added basic project structure  
 - 📌 Implemented Command Pattern with example  
 - 📚 Updated documentation and README  
+
+
+## [0.1.1] - 2025-03-07
+### Added   
+- 📌 Implemented Interpreter Pattern with example

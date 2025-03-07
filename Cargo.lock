@@ -4,4 +4,4 @@ version = 4
 
 [[package]]
 name = "rust-design-patterns"
-version = "0.1.0"
+version = "0.1.1"

@@ -1,6 +1,6 @@
 [package]
 name = "rust-design-patterns"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 
 
@@ -12,5 +12,9 @@ path = "src/lib.rs"  # Defines the library entry
 [[bin]]
 name = "command_pattern"
 path = "src/command_pattern/command_pattern.rs"
+
+[[bin]]
+name = "interpreter_pattern"
+path = "src/interpreter_pattern/interpreter_pattern.rs"
 
 [dependencies]
