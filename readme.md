@@ -20,6 +20,6 @@ This is my personal learning journey through Rust’s design patterns. Feel free
 Clone the repository and run the examples:  
 
 ```sh
-git clone https://github.com/yourusername/rust-design-patterns-playground.git  
-cd rust-design-patterns-playground  
-cargo run --bin example_pattern  
+git clone git@github.com:avyactjain/rust-design-patterns.git
+cd rust-design-patterns
+cargo run --bin < example_pattern >  
