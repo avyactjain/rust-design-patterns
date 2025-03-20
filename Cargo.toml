@@ -17,4 +17,12 @@ path = "src/command_pattern/command_pattern.rs"
 name = "interpreter_pattern"
 path = "src/interpreter_pattern/interpreter_pattern.rs"
 
+[[bin]]
+name = "newtype_pattern"
+path = "src/newtype_pattern/newtype_pattern.rs"
+
+[[bin]]
+name = "raiiguard_pattern"
+path = "src/raiiguard_pattern/raiiguard_pattern.rs"
+
 [dependencies]

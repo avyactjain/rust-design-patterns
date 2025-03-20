@@ -19,3 +19,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 ## [0.1.1] - 2025-03-07
 ### Added   
 - 📌 Implemented Interpreter Pattern with example
+- 📌 Implemented RAII Guard with example
